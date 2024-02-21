@@ -1,0 +1,25 @@
+body{
+    background-color: blueviolet;
+}
+.container{
+   width: 400px;
+    flex-flow: column;
+    padding: 100px;
+    background-color: rgb(150, 150, 215);
+    margin: 20vh auto 0 auto;
+    border-radius: 20px;
+    align-items: center;
+}
+#submit{
+    width: 100%;
+    background-color: brown;
+    color: aliceblue;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.input text{
+    align-items: center;
+    gap: 10px;
+
+}
+
